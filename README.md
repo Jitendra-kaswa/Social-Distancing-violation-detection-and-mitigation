@@ -1,2 +1,2 @@
 # project
-TOC project repo
+Social Distancing Voilation Detection and Mitigation System (SVDM)
