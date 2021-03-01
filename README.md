@@ -1,2 +1,2 @@
 # project
-Social Distancing Voilation Detection and Mitigation System (SVDM)
+Social Distancing Voilation Detection and Mitigation System (SVDM).
